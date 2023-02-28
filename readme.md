@@ -1,6 +1,6 @@
 # StoryBooks
 
-> Create public and private stories from your life
+> Coding allong the Travery Media tutorial. Updated some things that were no longer working.
 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication
 
